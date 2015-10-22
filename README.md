@@ -1,8 +1,8 @@
-# casper
+# Casper Theme
 
 ![Casper Hexo port](https://lh3.googleusercontent.com/-5doSM3lLMz4/UtDKTGB7U8I/AAAAAAAABwY/VrNrJP8RgKU/w808-h712-no/Oops%2521+Google+Chrome+could+not+connect+to+localhost-4000.jpg)
 
-[Ghost Casper] hexo port, a really minimalist theme.
+[Ghost Casper] a really minimalist theme, ported to Hexo.js.
 Preview: [live demo](http://kywk.github.io/hexo-theme-casper)
 
 ## Installation
@@ -10,7 +10,7 @@ Preview: [live demo](http://kywk.github.io/hexo-theme-casper)
 ### Install
 
 ``` bash
-$ git clone https://github.com/kywk/hexo-theme-casper.git themes/casper
+git clone https://github.com/kywk/hexo-theme-casper.git themes/casper
 ```
 
 ### Enable
